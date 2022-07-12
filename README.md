@@ -1,3 +1,4 @@
 # Bottle-The-Spin!
 
-[ezgif com-gif-maker](https://user-images.githubusercontent.com/97940574/178454761-48f378cb-d8d8-4101-914f-93b0168d5c7b.gif)
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/97940574/178455869-6da6f3f4-4867-4163-9aff-efd52de1f320.gif)
